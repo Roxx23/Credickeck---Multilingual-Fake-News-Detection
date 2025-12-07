@@ -78,13 +78,7 @@ Final label based on evidence stance.
 # 🛠️ Installation
 
 ```bash
-git clone https://github.com/<your-repo>/credicheck.git
+git clone [https://github.com/<your-repo>/credicheck.git](https://github.com/Roxx23/Credickeck---Multilingual-Fake-News-Detection.git)
 cd credicheck
 
 pip install -r requirements.txt
-
-
-
-
-
-
