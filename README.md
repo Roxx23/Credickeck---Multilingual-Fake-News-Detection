@@ -46,8 +46,6 @@ The system outputs:
 
 ---
 
----
-
 # ⚙️ How It Works
 
 ### **1️⃣ Language Processing**
@@ -85,20 +83,6 @@ cd credicheck
 
 pip install -r requirements.txt
 
-## ▶️ Running the System
-
-### **Command-line**
-Run the verification pipeline directly from the terminal:
-
-```bash
-python src/main.py
-
-### 🌐 Web UI
-
-To launch the graphical web interface, run:
-
-```bash
-python app/server.py
 
 
 
